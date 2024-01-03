@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TranLuan2907/flight-management-system">
-    <img src="./flightaware.svg" alt="Logo" width="80" height="80">
+    <img src="./images/flightaware.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Flight Management System</h3>
@@ -140,7 +140,7 @@ Notice that if you are accustomed to using another IDE not listed here, feel fre
 
 Below is a demonstration of the project, showcasing the implementation of data validations.
 
-![Demo](./Demo.gif)
+![Demo](./images/Demo.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,8 +227,8 @@ Be sure to check out his insightful content on [Youtube](https://www.youtube.com
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/luantran2907
-[product-screenshot]: ./J1.L.P0026.%20Flight%20Management%20System-400_1/1704263815553-a5e5028f-3e73-469f-8a88-89e5170ad33d%20Flight%20Management%20System-400_1.jpg
-[product-screenshot2]: ./J1.L.P0026.%20Flight%20Management%20System-400_1/1704263815553-a5e5028f-3e73-469f-8a88-89e5170ad33d%20Flight%20Management%20System-400_2.jpg
+[product-screenshot]: ./images/1704263815553-a5e5028f-3e73-469f-8a88-89e5170ad33d%20Flight%20Management%20System-400_1.jpg
+[product-screenshot2]: ./images/1704263815553-a5e5028f-3e73-469f-8a88-89e5170ad33d%20Flight%20Management%20System-400_2.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
